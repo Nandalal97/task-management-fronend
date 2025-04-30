@@ -1,12 +1,40 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## ✅ Frontend `README.md`
+# Task Management System – Admin Panel (Frontend)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is the **React.js** frontend for the Task Management System. It allows users/admins to manage tasks through a responsive and modern web interface, powered by **Vite**, **React Router**, and **Bootstrap**.
 
-## Expanding the ESLint configuration
+## 🔗 Live Demo
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 [Live Demo on Netlify](https://task-mgmts.netlify.app/)
+
+## 🔗 Backend API
+
+👉 [Backend GitHub Repository](https://github.com/Nandalal97/taskManagement)
+
+---
+
+## 🧰 Tech Stack
+
+- React 19
+- React Router v7
+- Axios (API Calls)
+- Bootstrap 5 + Icons
+- SweetAlert2 (UI Alerts)
+- js-cookie (for token/session)
+- Font Awesome 6
+---
+
+## ⚙️ Installation & Setup
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Nandalal97/task-management-fronend.git
+cd task-management-fronend
+---
+Install Dependencies
+npm install
+npm run dev
+
